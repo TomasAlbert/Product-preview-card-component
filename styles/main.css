@@ -15,7 +15,7 @@
 	transition: all 0.3s ease-in-out;
 	opacity: 1;
 }
-/* [data-card] > picture > img {
+[data-card] > picture > img {
 	transition: transform 1s cubic-bezier(0.77, 0, 0.18, 1);
 	transform: translateY(100px);
 }
@@ -28,4 +28,4 @@
 }
 .animate-in[data-card] > div {
 	transform: translateY(0px);
-} */
+}
