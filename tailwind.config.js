@@ -4,14 +4,15 @@ module.exports = {
 	content: ["./*.{html,js}"],
 	theme: {
 		screens: {
-			sm: "375px",
+			xs: "480px",
+			sm: "650px",
 			md: "768px",
 			lg: "976px",
 			xl: "1440px",
 		},
 
 		colors: {
-			DarkCyan: " hsl(158, 36%, 37%)",
+			DarkCyan: "hsl(158, 36%, 37%)",
 			Cream: "hsl(30, 38%, 92%)",
 			VeryDarkBlue: "hsl(212, 21%, 14%)",
 			DarkGrayishBlue: "hsl(228, 12%, 48%)",
